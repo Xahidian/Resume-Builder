@@ -1,8 +1,7 @@
 
 # Resume-Builder
 This is a Resume Builder web application that allows users to create customized resumes effortlessly. Built with React.js, it features dynamic personal information input, section additions, real-time previews, and PDF generation.
-# Resume Builder Web App
-
+# [Resume Builder Web App](https://github.com/Xahidian/Resume-Builder/blob/main/RESUME%20BUILDER.jpg).
 A web application to create and preview a professional resume with personal details and multiple sections. It allows you to:
 - Add personal information like name, email, phone number, LinkedIn, and GitHub profiles.
 - Add multiple sections with titles and content.
